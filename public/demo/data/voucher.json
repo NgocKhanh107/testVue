@@ -1,0 +1,59 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "ten": "zô mốt",
+            "thoiGianBatDau": "2023/06/23",
+            "thoiGianKetThuc": "2023/06/25",
+            "moTa": "ma giam gia zomot",
+            "giamToiDa": 15000,
+            "trangThai": 1
+        },
+        {
+            "id": 2,
+            "ten": "freeship",
+            "thoiGianBatDau": "2023/06/23",
+            "thoiGianKetThuc": "2023/06/25",
+            "moTa": "freeship",
+            "giamToiDa": 13000,
+            "trangThai": 1
+        },
+        {
+            "id": 3,
+            "ten": "thời trang",
+            "thoiGianBatDau": "2023/06/20",
+            "thoiGianKetThuc": "2023/06/23",
+            "moTa": "thời trang",
+            "giamToiDa": 16000,
+            "trangThai": 1
+        },
+        {
+            "id": 4,
+            "ten": "siêu voucher",
+            "thoiGianBatDau": "2023/06/23",
+            "thoiGianKetThuc": "2023/06/25",
+            "moTa": "siêu voucher",
+            "giamToiDa": 15000,
+            "trangThai": 1
+        },
+        {
+            "id": 5,
+            "ten": "06-06",
+            "thoiGianBatDau": "2023/06/25",
+            "thoiGianKetThuc": "2023/06/27",
+            "moTa": "06-06",
+            "giamToiDa": 11000,
+            "trangThai": 1
+        },
+        
+        {
+            "id": 7,
+            "ten": "nam",
+            "thoiGianBatDau": "2023/06/23",
+            "thoiGianKetThuc": "2023/06/25",
+            "moTa": "aaaa",
+            "giamToiDa": 10000,
+            "trangThai": 1
+        }
+    ]
+}
